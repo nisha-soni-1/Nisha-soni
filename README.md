@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisha soni</h1>
-<p align="left"> <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="nisha-soni-1" /> </p>
-https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&exph=600&expw=800&q=animated+coding+images&simid=608020120952773470&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=3
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha-soni-1&label=Profile%20views&color=0e75b6&style=flat" alt="nisha-soni-1" /> </p>
+https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&exph=600&expw=800&q=animated+coding+gif&simid=608020120952773470&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=8
 
 <p align="left"> <a href="https://twitter.com/nishaso01040824" target="blank"><img src="https://img.shields.io/twitter/follow/nishaso01040824?logo=twitter&style=for-the-badge" alt="nishaso01040824" /></a> </p>
 
@@ -8,7 +8,7 @@ https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC
 
 - 👯 I’m looking to collaborate on **awesome projects**
 
-- 💬 Ask me about **Data analytics**
+- 💬 Ask me about **Data mainpulation(Pandas,numpy),visualtization(mplotlib,seaborn,plotly),Python,sql**
 
 - 📫 How to reach me **ns6433629@gmail.com**
 
@@ -21,7 +21,7 @@ https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisha-soni-1&show_icons=true&locale=en" alt="nisha-soni-1" /></p>
 
