@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisha soni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha-soni-1&label=Profile%20views&color=0e75b6&style=flat" alt="nisha-soni-1" /> </p>
-https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&exph=600&expw=800&q=animated+coding+gif&simid=608020120952773470&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=8
+
 
 <p align="left"> <a href="https://twitter.com/nishaso01040824" target="blank"><img src="https://img.shields.io/twitter/follow/nishaso01040824?logo=twitter&style=for-the-badge" alt="nishaso01040824" /></a> </p>
 
